@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const characterController = require("./controllers/Characters")
+const characterController = require("./Controllers/Characters")
 
 const app = express();
 
