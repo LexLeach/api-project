@@ -1,0 +1,15 @@
+const express = require("express");
+const cors = require("cors");
+const characterController = require("./controllers/Characters")
+
+const app = express();
+
+app.use(cors());
+
+app.use("/characters/", characterController);
+
+app.set("port", process.env.PORT || 8080);
+
+app.listen(app.get("port"), () => {
+    console.log(`✅ PORT: ${app.get("port")} 🌟`);
+});
