@@ -6,6 +6,10 @@ const app = express();
 
 app.use(cors());
 
+app.get("/", (req, res) => {
+    res.redirect("/characters");
+});
+
 app.use("/characters/", characterController);
 
 app.set("port", process.env.PORT || 8080);
