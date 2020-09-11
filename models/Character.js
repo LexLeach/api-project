@@ -1,15 +1,19 @@
 const mongoose = require("../db/connection")
+const {
+    Skills,
+    skillSchema
+} = require('./Skills')
 
 const CharacterSchema = new mongoose.Schema({
     name: String,
+    age: Number,
+    description: String,
+    skills: [skillSchema],
     animeName: String,
     url: String,
-    favorited: Boolean,
-    age: Number,
-    specialSkills: String
+    favorited: Boolean
 })
 
 const Character = mongoose.model("Character", CharacterSchema);
 
-//export the instantiated model. Think of this like creating a new class
 module.exports = Character

@@ -1,33 +1,86 @@
 [{
         "name": "Lex Leach",
+        "age": 29,
+        "description": "test test",
+        "skills": [{
+                "name": "fireball",
+                "description": "ball of fire"
+            },
+            {
+                "name": "icey spear",
+                "description": "spear of ice"
+            }
+        ],
         "animeName": "Do the thing",
         "url": "http://www.doTheThing.io",
-        "favorited": true,
-        "age": 29,
-        "specialSkills": "Does the thing"
+        "favorited": true
     },
     {
         "name": "Lex Leach",
+        "age": 29,
+        "description": "test test",
+        "skills": [{
+                "name": "lightening",
+                "description": "lightening strike"
+            },
+            {
+                "name": "wind blade",
+                "description": "gust of wind sharp as a blade"
+            }
+        ],
         "animeName": "Do the thing",
         "url": "http://www.doTheThing.io",
-        "favorited": true,
-        "age": 29,
-        "specialSkills": "Does the thing"
+        "favorited": true
     },
     {
         "name": "Lex Leach",
+        "age": 29,
+        "description": "test test",
+        "skills": [{
+                "name": "fireball storm",
+                "description": "storm of balls of fire"
+            },
+            {
+                "name": "icey spear",
+                "description": "spear of ice"
+            }
+        ],
         "animeName": "Do the thing",
         "url": "http://www.doTheThing.io",
-        "favorited": true,
-        "age": 29,
-        "specialSkills": "Does the thing"
+        "favorited": true
     },
     {
         "name": "Lex Leach",
+        "age": 29,
+        "description": "test test",
+        "skills": [{
+                "name": "fireball",
+                "description": "ball of fire"
+            },
+            {
+                "name": "icey spear",
+                "description": "spear of ice"
+            }
+        ],
         "animeName": "Do the thing",
         "url": "http://www.doTheThing.io",
-        "favorited": true,
+        "favorited": true
+    },
+    {
+        "name": "Lex Leach",
         "age": 29,
-        "specialSkills": "Does the thing"
+        "description": "test test",
+        "skills": [{
+                "name": "fireball",
+                "description": "ball of fire"
+            },
+            {
+                "name": "icey spear",
+                "description": "spear of ice"
+            }
+        ],
+        "animeName": "Do the thing",
+        "url": "http://www.doTheThing.io",
+        "favorited": true
     }
 ]
