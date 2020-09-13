@@ -4,6 +4,12 @@ const characterController = require("./Controllers/Characters")
 
 const app = express();
 
+app.use(parser.urlencoded({
+    extended: true
+}));
+
+app.use(parser.json());
+
 app.use(cors());
 
 app.get("/", (req, res) => {

@@ -1,7 +1,76 @@
 [{
+        "name": "Escanor",
+        "age": 40,
+        "bio": "was the Lion's Sin of Pride of the Seven Deadly Sins, the former second prince of the Kingdom of Castellio, and the man known throughout the Kingdom of Liones as 'The Strongest Holy Knight'. His Sacred Treasure was the Divine Axe, Rhitta, and his inherent power was called Sunshine, which made him renowned for gaining immense power during the day, and gradually becoming weaker with the setting of the sun, leaving him frail and submissive at night.",
+        "skills": [{
+                "name": "Super Slash",
+                "description": "Escanor delivers a powerful downwards slash with his axe that causes considerable damage that can be felt from several meters away"
+            },
+            {
+                "name": "The One",
+                "description": "During noon, when his power is at its peak, for one minute he becomes the manifestation of power itself and his body dwarfs normal people. In this form, he is said to be invincible."
+            },
+            {
+                "name": "Divine Sword Escanor",
+                "description": "Escanor makes a downward swiping motion with his hand that can cut an opponent. [6] This attack was powerful enough to destroy Zeldris' Ominous Nebula."
+            },
+            {
+                "name": "Divine Spear Escanor",
+                "description": "Escanor thrusts his index finger at his opponent with enough force to pierce them."
+            },
+            {
+                "name": "The One: Ultimate",
+                "description": "An extension of Escanor's 'The One' form created by Escanor himself. After noon, when 'the One' reaches it limit and begins to fade, Escanor circumvents it by converting his own life force into magic power in order to not only keep 'the One' active, but also greatly enhance its already invincible power. This technique is Escanor's last resort and a double-edged sword, as using it will completely burn out his own life force, and eventually kill him."
+            }
+        ],
+        "animeName": "Seven Deadly Sins",
+        "url": "https://nanatsu-no-taizai.fandom.com/wiki/Escanor",
+        "favorited": true,
+        "likes": 0,
+        "dislikes": 0
+    },
+    {
+        "name": "Kyuzo",
+        "age": 35,
+        "bio": "is a nearly silent and mysterious samurai. He is, together with Hyogo, a bodyguard for Ayamaro. In that role, he fights with Kambei, and he later joins the group with the stated intent of saving Kanbei's life so that he can later fight Kanbei to the death. Kyuzo is an incredibly skilled fighter, wielding double blades that fit into one sheath on his back.",
+        "skills": [{
+                "name": "Dual Swords",
+                "description": "use two swords to fight"
+            },
+            {
+                "name": "Silent Intimidation",
+                "description": "Sacred stare of Intimidation"
+            }
+        ],
+        "animeName": "Samurai 7",
+        "url": "https://samurai-7.fandom.com/wiki/Kyuzo",
+        "favorited": true,
+        "likes": 0,
+        "dislikes": 0
+    },
+    {
+        "name": "Goku",
+        "age": 40,
+        "bio": "",
+        "skills": [{
+                "name": "Kamehameha",
+                "description": "Pew"
+            },
+            {
+                "name": "dense",
+                "description": "Slow"
+            }
+        ],
+        "animeName": "Do the thing",
+        "url": "http://www.doTheThing.io",
+        "favorited": true,
+        "likes": 0,
+        "dislikes": 0
+    },
+    {
         "name": "Lex Leach",
         "age": 29,
-        "description": "test test",
+        "bio": "test test",
         "skills": [{
                 "name": "fireball",
                 "description": "ball of fire"
@@ -13,46 +82,14 @@
         ],
         "animeName": "Do the thing",
         "url": "http://www.doTheThing.io",
-        "favorited": true
+        "favorited": true,
+        "likes": 0,
+        "dislikes": 0
     },
     {
         "name": "Lex Leach",
         "age": 29,
-        "description": "test test",
-        "skills": [{
-                "name": "lightening",
-                "description": "lightening strike"
-            },
-            {
-                "name": "wind blade",
-                "description": "gust of wind sharp as a blade"
-            }
-        ],
-        "animeName": "Do the thing",
-        "url": "http://www.doTheThing.io",
-        "favorited": true
-    },
-    {
-        "name": "Lex Leach",
-        "age": 29,
-        "description": "test test",
-        "skills": [{
-                "name": "fireball storm",
-                "description": "storm of balls of fire"
-            },
-            {
-                "name": "icey spear",
-                "description": "spear of ice"
-            }
-        ],
-        "animeName": "Do the thing",
-        "url": "http://www.doTheThing.io",
-        "favorited": true
-    },
-    {
-        "name": "Lex Leach",
-        "age": 29,
-        "description": "test test",
+        "bio": "test test",
         "skills": [{
                 "name": "fireball",
                 "description": "ball of fire"
@@ -64,23 +101,8 @@
         ],
         "animeName": "Do the thing",
         "url": "http://www.doTheThing.io",
-        "favorited": true
-    },
-    {
-        "name": "Lex Leach",
-        "age": 29,
-        "description": "test test",
-        "skills": [{
-                "name": "fireball",
-                "description": "ball of fire"
-            },
-            {
-                "name": "icey spear",
-                "description": "spear of ice"
-            }
-        ],
-        "animeName": "Do the thing",
-        "url": "http://www.doTheThing.io",
-        "favorited": true
+        "favorited": true,
+        "likes": 0,
+        "dislikes": 0
     }
 ]

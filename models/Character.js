@@ -7,11 +7,13 @@ const {
 const CharacterSchema = new mongoose.Schema({
     name: String,
     age: Number,
-    description: String,
+    bio: String,
     skills: [skillSchema],
     animeName: String,
     url: String,
-    favorited: Boolean
+    favorited: Boolean,
+    likes: Number,
+    dislikes: Number
 })
 
 const Character = mongoose.model("Character", CharacterSchema);
