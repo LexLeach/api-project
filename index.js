@@ -1,5 +1,6 @@
-const express = require("express");
-const cors = require("cors");
+const express = require("express")
+const cors = require("cors")
+const parser = require("body-parser")
 const characterController = require("./Controllers/Characters")
 
 const app = express();
