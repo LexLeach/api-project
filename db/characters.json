@@ -51,56 +51,91 @@
     {
         "name": "Goku",
         "age": 40,
-        "bio": "",
+        "bio": "is the main protagonist of the Dragon Ball metaseries. Goku is a Saiyan originally sent to destroy Earth as an infant. However, a head injury at an early age alters his memory, ridding him of his initial destructive nature and allowing him to grow up to become one of Earth's greatest defenders. He constantly strives and trains to be the greatest warrior possible, which has kept the Earth and the universe safe from destruction many times.",
         "skills": [{
                 "name": "Kamehameha",
                 "description": "Pew"
             },
             {
-                "name": "dense",
-                "description": "Slow"
+                "name": "Kaio-ken",
+                "description": "While using it and any of its multipliers, Goku's various capacities and techniques are all proportionally increased. However, the strain of using too high a multiplier and/or for too long can be dangerous and greatly damage his body."
+            },
+            {
+                "name": "Spirit Bomb",
+                "description": "Easily Goku's most powerful techniques and arguably the strongest in the series, it allows Goku to channel ki from all sources of life that he can detect and focus it all into a single energy ball."
+            },
+            {
+                "name": "Instant Transmission",
+                "description": "This technique allows him to teleport to any location so long as he can find an energy source to home onto. However, it also greatly extends his ability to sense energy."
             }
         ],
-        "animeName": "Do the thing",
+        "animeName": "Dragon Ball, Dragon Ball Z, Dragon Ball Super",
         "url": "http://www.doTheThing.io",
         "favorited": true,
         "likes": 0,
         "dislikes": 0
     },
     {
-        "name": "Lex Leach",
-        "age": 29,
-        "bio": "test test",
+        "name": "Shiba Tatsuya",
+        "age": 17,
+        "bio": "is the main protagonist of The Irregular in Magic High School. He enrolled at the National Magic University Affiliated First High School in April 2095 with his younger sister, Miyuki (深雪). He was accepted as one of the students to be placed in the Course 2 curriculum, marking the start of the series events. In his second year, he transferred into the newly-created Magic Engineering Course.",
         "skills": [{
-                "name": "fireball",
-                "description": "ball of fire"
+                "name": "Highly Intelligent",
+                "description": ""
             },
             {
-                "name": "icey spear",
-                "description": "spear of ice"
+                "name": "Elemental Sight",
+                "description": "also known as Eyes of the Spirit among the Traditional Magicians in the 101 Independent Magic-Equipped Battalion, is a sensory ability that allows Tatsuya to connect to the Information Dimension and identify the landscape down to every detail.[6] Every person and object imprints their Eidos within the Information Dimension, and every system and type of magic projects Sequences onto the Eidos through it."
+            },
+            {
+                "name": "Decomposition",
+                "description": "is also known as Dissolution, Disintegration and Demon Right.[7] By itself, Decomposition can destroy areas, objects, or obliterate Sequences. With Elemental Sight, Tatsuya can identify the design of any Eidos or Sequence, then by using Decomposition, he can break down that design or structure entirely or selectively choose bits and pieces."
+            },
+            {
+                "name": "Regrowth",
+                "description": "also known as Restoration, is the opposite of Tatsuya's Decomposition powers. Instead of breaking down an Eidos or Sequence, it can restore it.[14] Coupled with Elemental Sight, Tatsuya can read the structural information of any object up to 24 hours in the past and with Regrowth, he can restore anything--organic or inorganic--to any point in that time frame. This means that he can restore maimed or fatally injured people, including himself, to a state before they were injured. Unfortunately, when trying to heal people, this means that Tatsuya must read and then experience the recipient's pain in order to use Regrowth. The amount of pain that Tatsuya has to experience is a condensed form of how long and how much pain was experienced by the injured person, within the amount of time that he needs to read the Eidos Change-log."
             }
         ],
-        "animeName": "Do the thing",
-        "url": "http://www.doTheThing.io",
+        "animeName": "The Irregular at Magic High School",
+        "url": "https://mahouka-koukou-no-rettousei.fandom.com/wiki/Shiba_Tatsuya",
         "favorited": true,
         "likes": 0,
         "dislikes": 0
     },
     {
-        "name": "Lex Leach",
-        "age": 29,
-        "bio": "test test",
+        "name": "Sasuke Uchiha",
+        "age": 17,
+        "bio": "is one of the last surviving members of Konohagakure's Uchiha clan. After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi.",
         "skills": [{
-                "name": "fireball",
-                "description": "ball of fire"
+                "name": "Ninjutsu",
+                "description": "perform hand signs to output skills"
             },
             {
-                "name": "icey spear",
-                "description": "spear of ice"
+                "name": "Cured Seal",
+                "description": "When active, the cursed seal saps Sasuke's own chakra and replaces it with a larger amount of Orochimaru's, in turn increasing his strength and speed."
             }
         ],
-        "animeName": "Do the thing",
-        "url": "http://www.doTheThing.io",
+        "animeName": "Naruto",
+        "url": "https://naruto.fandom.com/wiki/Sasuke_Uchiha",
+        "favorited": true,
+        "likes": 0,
+        "dislikes": 0
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "age": 17,
+        "bio": "is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood.",
+        "skills": [{
+                "name": "Ninjutsu",
+                "description": "perform hand signs to output skills"
+            },
+            {
+                "name": "Sexy-clone jutsu",
+                "description": "Makes copies of himself that are naked women"
+            }
+        ],
+        "animeName": "Naruto",
+        "url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki",
         "favorited": true,
         "likes": 0,
         "dislikes": 0
