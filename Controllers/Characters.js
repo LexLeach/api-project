@@ -9,7 +9,7 @@ router.get("/", (req, res) => {
 router.get("/:name", (req, res) => {
     Character
         .find({
-            name: req.params.title
+            name: req.params.name
         })
         .then(Characters => res.json(Characters))
 });
@@ -21,7 +21,7 @@ router.post("/", (req, res) => {
 
 router.put("/:name", (req, res) => {
     Character.findOneAndUpdate({
-        name: req.params.title
+        name: req.params.name
     }, req.body, {
         new: true
     }).then(Character => res.json(Character))
@@ -29,7 +29,7 @@ router.put("/:name", (req, res) => {
 
 router.delete("/:name", (req, res) => {
     Character.findOneAndDelete({
-        name: req.params.title
+        name: req.params.name
     }).then(Character => {
         res.json(Character)
     });
