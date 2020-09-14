@@ -27,9 +27,9 @@ router.put("/:name", (req, res) => {
     }).then(Character => res.json(Character))
 });
 
-router.delete("/:name", (req, res) => {
+router.delete("/:_id", (req, res) => {
     Character.findOneAndDelete({
-        name: req.params.name
+        name: req.params._id
     }).then(Character => {
         res.json(Character)
     });
