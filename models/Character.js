@@ -11,6 +11,7 @@ const CharacterSchema = new mongoose.Schema({
     skills: [skillSchema],
     animeName: String,
     url: String,
+    image: String
     favorited: Boolean,
     likes: Number,
     dislikes: Number
