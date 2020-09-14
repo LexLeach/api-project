@@ -1,6 +1,7 @@
 const express = require("express")
 const router = express.Router()
 const Character = require("../models/Character")
+//const jwt = require('jsonwebtoken');
 
 router.get("/", (req, res) => {
     Character.find({}).then(allCharacters => res.json(allCharacters))
