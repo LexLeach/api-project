@@ -139,5 +139,24 @@
         "favorited": true,
         "likes": 0,
         "dislikes": 0
+    },
+    {
+        "name": "Lex Leach",
+        "age": 29,
+        "bio": "is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood.",
+        "skills": [{
+                "name": "Ninjutsu",
+                "description": "perform hand signs to output skills"
+            },
+            {
+                "name": "Sexy-clone jutsu",
+                "description": "Makes copies of himself that are naked women"
+            }
+        ],
+        "animeName": "Naruto",
+        "url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki",
+        "favorited": true,
+        "likes": 0,
+        "dislikes": 0
     }
 ]
