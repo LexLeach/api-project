@@ -45,7 +45,7 @@
         ],
         "animeName": "Samurai 7",
         "url": "https://samurai-7.fandom.com/wiki/Kyuzo",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/samurai-7/images/9/9d/Kyozo.jpg",
         "favorited": true,
         "likes": 0,
         "dislikes": 0
@@ -73,7 +73,7 @@
         ],
         "animeName": "Dragon Ball, Dragon Ball Z, Dragon Ball Super",
         "url": "http://www.doTheThing.io",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg",
         "favorited": true,
         "likes": 0,
         "dislikes": 0
@@ -101,7 +101,7 @@
         ],
         "animeName": "The Irregular at Magic High School",
         "url": "https://mahouka-koukou-no-rettousei.fandom.com/wiki/Shiba_Tatsuya",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/d/de/Screenshot_2018-01-25-21-59-30-1.png",
         "favorited": true,
         "likes": 0,
         "dislikes": 0
@@ -141,27 +141,7 @@
         ],
         "animeName": "Naruto",
         "url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki",
-        "image": "",
-        "favorited": true,
-        "likes": 0,
-        "dislikes": 0
-    },
-    {
-        "name": "Lex Leach",
-        "age": 29,
-        "bio": "is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood.",
-        "skills": [{
-                "name": "Ninjutsu",
-                "description": "perform hand signs to output skills"
-            },
-            {
-                "name": "Sexy-clone jutsu",
-                "description": "Makes copies of himself that are naked women"
-            }
-        ],
-        "animeName": "Naruto",
-        "url": "https://naruto.fandom.com/wiki/Naruto_Uzumaki",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/0/09/Naruto_newshot.png",
         "favorited": true,
         "likes": 0,
         "dislikes": 0
